@@ -19,8 +19,7 @@ To learn how to import the data into Memozora, please check out [README.md](/REA
 
 ## Data Source
 
-The dataset is made from the "Top 3000 Thai Vocabularies" available on [expatden.com](https://expatden.com).
-https://www.expatden.com/learn-thai/top-3000-thai-vocabularies/
+The dataset is made from the "[Top 3000 Thai Vocabularies](https://www.expatden.com/learn-thai/top-3000-thai-vocabularies)" available on [expatden.com](https://expatden.com).
 
 ## File Format
 
