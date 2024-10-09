@@ -6,23 +6,29 @@ This repository contains a TSV (Tab-Separated Values) file for efficiently learn
 
 ## Features
 
-- Words are ordered from easier to more difficult.
+- Words are ordered from easiest to most difficult.
 - Each entry includes a pair of Thai example sentences with English translations.
-- All example sentences use words you've already learned plus one new word, ensuring gradual vocabulary building.
+- Each example sentence introduces a new word, ensuring gradual vocabulary building.
+- This set of quizzes adopts science-backed techniques such as comprehensible input* and chunking*.
+
+\*Comprehensible input: Expose yourself to language content that's slightly above your current level, as proposed by linguist Stephen Krashen. This challenges you without overwhelming you.
+
+\*Chunking: Learn phrases and collocations rather than isolated words to improve natural language use and memory retention.
 
 ## File Format
 
 The TSV file is structured as follows:
 
-1. Thai word
+1. Thai example sentence
 2. English translation
-3. Thai example sentence
-4. English translation of the example sentence
-5. Additional notes or context (if applicable)
+3. Break-up of each words
 
-Example:
+Data Example:
 
 ```
-ไป	to go	ฉันไปโรงเรียน	I go to school
-กิน	to eat	เธอกินข้าว	She eats rice
+ผม ชอบ กิน	I like eating.	ผม (I) / ชอบ (like) / กิน (eat)
+ฉัน ทราบ แล้ว	I know already.	ฉัน (I) / ทราบ (know) / แล้ว (already)
+คุณ สวย มาก	You are very beautiful.	คุณ (you) / สวย (beautiful) / มาก (very)
+ฉัน มี เพื่อน	I have friends.	ฉัน (I) / มี (have) / เพื่อน (friend)
+ฉัน ขับ รถ	I drive a car.	ฉัน (I) / ขับ (drive) / รถ (car)
 ```
