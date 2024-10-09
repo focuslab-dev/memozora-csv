@@ -7,10 +7,10 @@ This repository contains a collection of public CSV files that can be imported i
 To use these datasets with Memozora:
 
 1. Go to Memozora.com and sign up.
-2. Create a deck.
-3. Click the deck and choose "Import CSV".
+2. Create an empty deck with any title.
+3. Click the deck and choose "Import Cards".
 4. Paste the CSV content inside the textarea and click Import.
-5. Configure the deck settings (for language learning, you should enable the "For Language Learning" option and choose the target language).
+5. Configure the deck settings (for language learning, please enable the "For Language Learning" option and choose the target language).
 
 ## Contact
 
