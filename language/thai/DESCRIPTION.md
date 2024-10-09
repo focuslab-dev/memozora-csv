@@ -4,16 +4,18 @@
 
 This repository contains a TSV (Tab-Separated Values) file for efficiently learning the 3,000 most frequently used Thai words. The dataset is designed to be imported into [Memozora](https://memozora.com), a flashcard application for effective learning and memorization.
 
+To learn how to import the data into Memozora, please check out [README.md](/README.md).
+
 ## Features
 
 - Words are ordered from easiest to most difficult.
 - Each entry includes a pair of Thai example sentences with English translations.
 - Each example sentence introduces a new word, ensuring gradual vocabulary building.
-- This set of quizzes adopts science-backed techniques such as comprehensible input* and chunking*.
-
-\*Comprehensible input: Expose yourself to language content that's slightly above your current level, as proposed by linguist Stephen Krashen. This challenges you without overwhelming you.
+- This set of quizzes adopts science-backed techniques such as *chunking and *comprehensible input.
 
 \*Chunking: Learn phrases and collocations rather than isolated words to improve natural language use and memory retention.
+
+\*Comprehensible input: Expose yourself to language content that's slightly above your current level, as proposed by linguist Stephen Krashen. This challenges you without overwhelming you.
 
 ## File Format
 
