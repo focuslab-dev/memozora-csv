@@ -1,4 +1,4 @@
-# Thai Vocabulary Builder 3000
+# Thai Vocabulary Builder 3000 (for English Speakers)
 
 ## Description
 
