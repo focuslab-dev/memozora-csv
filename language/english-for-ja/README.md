@@ -1,4 +1,4 @@
-# English Vocabulary Builder 3000 (for Japanese Speakers)
+# English Vocabulary Builder 8000 (for Japanese Speakers)
 
 ## Description
 
